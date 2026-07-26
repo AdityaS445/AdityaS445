@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%" />
 
-# Hi there, I'm Aditya Singh 👋
+# Hi there, I'm Aditya Singh
 
 </div>
 
